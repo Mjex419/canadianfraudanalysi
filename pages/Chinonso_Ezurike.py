@@ -24,14 +24,14 @@ with col1:
 
 with col2:
     st.subheader("Role")
-    st.write("Data Cleaning & Analysis Lead")
+    st.write("Data Analysis Lead")
 
     st.subheader("Project Contribution")
     st.write("""
     Chinonso Maryjane Ezurike contributed to the data preparation and analytical
-    aspect of the project. Her role focused on cleaning and structuring the dataset,
-    handling missing values, standardizing records, filtering relevant observations,
-    and generating analytical outputs used across the dashboard.
+    aspect of the project. She is responsible for transforming raw data into 
+    meaningful insights that support informed decision-making. She explores 
+    and analyzes datasets to identify patterns, trends, and relationships.
     """)
 
 st.divider()
